@@ -1,4 +1,4 @@
-package br.com.thecoders.timenote;
+package br.com.thecoders.timenote.format;
 
 public enum TimeNoteFormat {
 

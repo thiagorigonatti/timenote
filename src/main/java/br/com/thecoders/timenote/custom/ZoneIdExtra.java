@@ -1,4 +1,4 @@
-package br.com.thecoders.timenote;
+package br.com.thecoders.timenote.custom;
 
 import java.time.ZoneId;
 
@@ -11,7 +11,6 @@ public class ZoneIdExtra {
     }
 
     public static final ZoneIdExtra SP = new ZoneIdExtra(ZoneId.of("America/Sao_Paulo"));
-
 
     public ZoneIdExtra(ZoneId zoneId) {
         this.zoneId = zoneId;

@@ -1,4 +1,4 @@
-package br.com.thecoders.timenote;
+package br.com.thecoders.timenote.core;
 
 import java.util.Locale;
 
